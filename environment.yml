@@ -10,6 +10,7 @@ dependencies:
       - gensim
       - nltk
   - numpy
+  - ipywidgets
   - psutil
   - matplotlib
   - dill
@@ -24,3 +25,4 @@ dependencies:
   - scipy
   - scikit-learn
   - voila
+  - voila-material
